@@ -8,3 +8,6 @@ psycopg2-binary
 fastapi-mail
 python-dotenv
 alembic
+pydantic 
+pydantic[email]
+bcrypt
